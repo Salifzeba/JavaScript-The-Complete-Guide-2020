@@ -14,4 +14,3 @@ function zeba(gordon,sharaf,kristine){
 
 console.log(zeba("gordon","sharaf", "kristine"))                        
 
-
